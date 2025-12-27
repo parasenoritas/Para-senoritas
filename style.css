@@ -47,5 +47,12 @@ background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
 .naglowek h1 {
     font-size: 50px;
 }
+.tytul {
+    text-align: center;       /* Wyśrodkowanie */
+    font-size: 36px;          /* Rozmiar czcionki */
+    color: #ff69b4;           /* Pastelowy róż */
+    margin: 20px 0;           /* Odstęp nad i pod tytułem */
+    font-family: 'Arial', sans-serif; /* Czcionka */
+}
 
 
