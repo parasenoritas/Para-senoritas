@@ -33,7 +33,7 @@ body {
     height: 400px; /* wysokość nagłówka */
 background-color: #ffc0cb; /* pastelowy róż */
 
-    background-image: url('obrazek.jpg'); /* Twój obrazek */
+    background-image: url('obraz.jpg); (obrazek (2).jpg); (obrazz.jpg) /* Twój obrazek */
    background-size: contain;
 background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
     background-position: center; /* wyśrodkowanie */
@@ -54,5 +54,6 @@ background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
     margin: 20px 0;           /* Odstęp nad i pod tytułem */
     font-family: 'Arial', sans-serif; /* Czcionka */
 }
+
 
 
