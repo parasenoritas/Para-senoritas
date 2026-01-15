@@ -33,7 +33,7 @@ body {
     height: 400px; /* wysokość nagłówka */
 background-color: #ffc0cb; /* pastelowy róż */
 
-    background-images: url('obraz.jpg); (obrazek (2).jpg); (obrazz.jpg) 
+
    background-size: contain;
 background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
     display: flex;
@@ -54,11 +54,11 @@ background-repeat: no-repeat; /* żeby nie powtarzało się w tle */
 }
 .tytul {
     text-align: center;       /* Wyśrodkowanie */
-    font-size: 36px;          /* Rozmiar czcionki */
-    color: #ff69b4;           /* Pastelowy róż */
+    font-size: 36px;          /* Rozmiar czcionki *
     margin: 20px 0;           /* Odstęp nad i pod tytułem */
     font-family: 'French Script MT', sans-serif; /* Czcionka */
 }
+
 
 
 
