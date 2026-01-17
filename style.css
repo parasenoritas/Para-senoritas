@@ -28,7 +28,8 @@ body {
   font-size: 3rem;       /* tamaño del título principal */
   font-weight: 700;      /* más grueso */
   margin-bottom: 10px;
-  letter-spacing: 1px;   /* espaciado de letras */
+  letter-spacing: 1px;
+   text-align: center;  /* espaciado de letras */
 }
 
 .title-section p {
@@ -37,6 +38,7 @@ body {
   line-height: 1.6;
   color: #555;           /* color un poco más suave */
 }
+
 
 
 
