@@ -41,25 +41,19 @@ body {
   color: #333;                  /* ciemny, elegancki kolor */
 }
 
-.descarga__4_-removebg-preview.png {
-  text-align: right;       /* wyśrodkowanie */
+.sticker {
+  width: 100%;              /* zajmuje całą szerokość strony */
+  text-align: center;       /* wyśrodkowanie zawartości */
   margin: 20px 0 40px 0;    /* odstęp od góry i dołu */
 }
 
-.descarga__4_-removebg-preview.png {
-  max-width: 300px;         /* maksymalna szerokość */
+.sticker img {
+  max-width: 300px;         /* maksymalna szerokość stickeru */
   width: 50%;               /* dopasowuje się do ekranu */
   height: auto;             /* zachowuje proporcje */
-  display: inline-block;    /* wyśrodkowanie działa dobrze */
+  display: block;           /* bardzo ważne, żeby wyśrodkowanie działało */
+  margin: 0 auto;           /* wyśrodkowanie elementu block */
 }
-
-
-
-
-
-
-
-
 
 
 
