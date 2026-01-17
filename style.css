@@ -41,6 +41,18 @@ body {
   color: #333;                  /* ciemny, elegancki kolor */
 }
 
+.sticker {
+  text-align: center;       /* wyśrodkowanie */
+  margin: 20px 0 40px 0;    /* odstęp od góry i dołu */
+}
+
+.sticker img {
+  max-width: 300px;         /* maksymalna szerokość */
+  width: 50%;               /* dopasowuje się do ekranu */
+  height: auto;             /* zachowuje proporcje */
+  display: inline-block;    /* wyśrodkowanie działa dobrze */
+}
+
 
 
 
