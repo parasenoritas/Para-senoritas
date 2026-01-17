@@ -53,15 +53,17 @@ body {
   max-width: 300px;         /* średni rozmiar */
   width: 50%;               /* dopasowanie do ekranu */
   height: auto;             /* zachowuje proporcje */
+
 }
- .normal-text {
-  text-align: left;          /* wyrównanie do lewej */
-  margin: 20px 10% 40px 10%; /* odstęp od góry/dół + marginesy po bokach */
-  font-family: "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-  font-size: 1.8rem;         /* większy rozmiar niż poprzedni tekst */
-  line-height: 2;            /* trochę więcej przestrzeni między liniami */
-  color: #333;               /* ciemny, elegancki kolor */
+.normal-text p {
+  text-align: left !important;          /* wymusza wyrównanie do lewej */
+  margin: 20px 10% 40px 10% !important; /* marginesy */
+  font-family: "SF Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  font-size: 2rem !important;           /* DUŻY rozmiar, większy niż cytat */
+  line-height: 2 !important;            /* przestrzeń między liniami */
+  color: #333 !important;               /* ciemny kolor */
 }
+
 
 
 
